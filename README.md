@@ -18,7 +18,7 @@ Las solicitudes de extracción son bienvenidas. Para cambios importantes, abra u
 
 ## Autores
 
-* ** Pablo Cidón**-*Trabajo inicial*
+* **Pablo Cidón**-*Trabajo inicial*
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
