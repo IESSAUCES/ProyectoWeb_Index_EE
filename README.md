@@ -1,9 +1,9 @@
 
-#ProyectoWebIndexEE
+# ProyectoWebIndexEE
 ProyectoWebIndexEE es un indice para acceder a todas las web publicadas por los 
 alumnos de 2 del CFGS de Desarrollo de Aplicaciones Web (IES LOS SAUCES).
 
-##Instalación
+## Instalación
 
 Usar el paquete de la versión estable del repositorio 
 [git](https://github.com/IESSAUCES/ProyectoWeb_Index_EE.git) para instalar 
@@ -16,7 +16,7 @@ discuss what you would like to change.
 Las solicitudes de extracción son bienvenidas. Para cambios importantes, abra un
  problema primero para discutir qué le gustaría cambiar.
 
-##Autores
+## Autores
 
 * ** Pablo Cidón**-*Trabajo inicial*
 
